@@ -17,7 +17,7 @@
 
 
 <p>
-  <img src="screenshots/login.png" width="250">
-  <img src="screenshots/chat.png" width="250">
-  <img src="screenshots/profile.png" width="250">
+  <img src="screenshots/status_page.png" width="250">
+  <img src="screenshots/start_screen.png" width="250">
+  <img src="screenshots/meeting_screen" width="250">
 </p>
