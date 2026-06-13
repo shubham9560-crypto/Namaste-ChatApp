@@ -14,3 +14,10 @@
 
 ## Status Screen
 ![Status Screen](screenshots/status_page.png)
+
+
+<p>
+  <img src="screenshots/login.png" width="250">
+  <img src="screenshots/chat.png" width="250">
+  <img src="screenshots/profile.png" width="250">
+</p>
