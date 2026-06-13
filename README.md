@@ -1,7 +1,7 @@
 ## Download APK
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/shubham9560-crypto/Namaste-ChatApp/releases/download/v1.0/namaste.apk)
 
-Namaste ChatApp
+```Namaste ChatApp
 A Flutter-based real-time messaging application inspired by WhatsApp, featuring chat, voice/video calling, media sharing, and Firebase integration.
 
 Features:-
@@ -16,6 +16,7 @@ Tech Stack
 Flutter
 Dart
 
+
 Backend & Services
 Firebase Authentication
 Cloud Firestore
@@ -26,7 +27,7 @@ Jitsi Meet SDK
 
 State Management 
 Riverpod
-
+```
 Folder Structure
 ```Architecture
 lib/
