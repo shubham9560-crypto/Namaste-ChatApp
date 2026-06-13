@@ -28,7 +28,7 @@ State Management
 Riverpod
 
 Folder Structure
-Architecture
+```Architecture
 lib/
 ├── common/
 │   ├── enums/
@@ -49,7 +49,7 @@ lib/
 ├── firebase_options.dart
 ├── router.dart
 └── main.dart
-
+```
 ## Screenshots
 <p>
   <img src="screenshots/chat_page.png" width="250">
